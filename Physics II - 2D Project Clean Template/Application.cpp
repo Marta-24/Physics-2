@@ -28,6 +28,7 @@ Application::Application()
 	
 	// Player
 	AddModule(player);
+
 }
 
 Application::~Application()
@@ -39,6 +40,9 @@ Application::~Application()
 		delete item->data;
 		item = item->prev;
 	}
+
+	int fps = FPS;
+
 }
 
 bool Application::Init()

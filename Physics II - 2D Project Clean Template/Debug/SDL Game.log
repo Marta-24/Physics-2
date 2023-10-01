@@ -1,6 +1,7 @@
 ﻿  Application.cpp
   log.cpp
   Main.cpp
+C:\Users\mllur\Documents\GitHub\Physics-2\Physics II - 2D Project Clean Template\Main.cpp(58,70): warning C4018: '<': no coinciden signed/unsigned
   ModuleAudio.cpp
   ModuleInput.cpp
   ModulePhysics.cpp
@@ -10,4 +11,4 @@
   ModuleTextures.cpp
   ModuleWindow.cpp
   Generando código...
-  SDL Game.vcxproj -> C:\Users\mllur\Downloads\Physics II - 2D Project Clean Template\Debug\Physics 2.exe
+  SDL Game.vcxproj -> C:\Users\mllur\Documents\GitHub\Physics-2\Physics II - 2D Project Clean Template\Debug\Physics 2.exe
